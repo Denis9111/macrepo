@@ -1,1 +1,3 @@
-add new txt fill and wanna push to github repo
+add new txt fill and wanna push to github rep
+
+before push
