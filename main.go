@@ -9,5 +9,5 @@ func main() {
 		fmt.Println(i)
 	}
 	fmt.Println("Hello World2")
-	//hgjh hjhg
+	//поменял настройки репо на пуш по ссаш
 }
